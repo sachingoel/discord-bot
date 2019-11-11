@@ -1,0 +1,17 @@
+{
+  "discord":{
+    "bot":{
+      "token" : "DISCORD_TOKEN"
+    }
+  },
+  "google":{
+    "search":{
+      "apiKey": "API_KEY",
+      "engineId" : "ENGINE_ID"
+    }
+  },
+  "db":{
+    "host": "mongo",
+    "port": 27017
+  }
+}
