@@ -11,6 +11,6 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "googleapis": "^44.0.0",
-    "mongoose": "^5.7.7"
+    "mongoose": "^5.13.15"
   }
 }
